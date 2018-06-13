@@ -6,10 +6,9 @@
  * Time: 13:39
  */
 
-namespace OopAnimals;
+namespace OopAnimals\Species;
 
-
-class Dog extends SpeciesAbstract
+class Dog extends \OopAnimals\SpeciesAbstract
 {
     /**
      * @var string
