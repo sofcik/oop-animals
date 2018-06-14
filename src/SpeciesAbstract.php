@@ -8,7 +8,6 @@
 
 namespace Sofcik\OopAnimals;
 
-
 abstract class SpeciesAbstract
 {
     /**

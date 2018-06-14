@@ -8,7 +8,6 @@
 
 namespace Sofcik\OopAnimals\Species;
 
-
 class Cat extends \Sofcik\OopAnimals\SpeciesAbstract
 {
     /**
