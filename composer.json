@@ -1,0 +1,12 @@
+{
+  "name": "sofcik/oop-animals",
+  "description": "Sample library",
+  "require": {
+    "php": "^7.1 || ^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sofcik\\OopAnimals\\": "src/"
+    }
+  }
+}
